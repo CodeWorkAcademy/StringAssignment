@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        String name ="";
+        String name =" My Name";
         System.out.print(name);
     }
 }
